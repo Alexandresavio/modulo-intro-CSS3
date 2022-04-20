@@ -1,0 +1,8 @@
+.texto{
+    background-color: orangered;
+}
+body{
+    background-image: url(../../HTML5-basico/img/goku.png);
+    background-size: 300px;
+    background-repeat: repeat-x;
+}
