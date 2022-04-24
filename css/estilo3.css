@@ -1,0 +1,19 @@
+#principal{
+    background: rgb(106, 126, 106);
+    border: 5px solid black;
+}
+
+.conteudo{
+    background: rgb(231, 225, 231);
+    border: 4px solid rgb(190, 16, 132);
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    float: right;   
+}
+
+.clear{
+    clear: both;
+}
+
+
